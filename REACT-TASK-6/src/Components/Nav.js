@@ -8,7 +8,7 @@ const Nav = () => {
         className=" try ms-5 text-light  text-decoration-none"
         href="navbar-brand"
       >
-        <strong style={{ color: "violet", fontSize: "35px" }}>KK. </strong>
+        <strong style={{ color: "violet", fontSize: "35px" }}>Pavan. </strong>
       </a>
       <div className="nav">
         <a className=" try nav-link  mx-4 text-light " href="#nv">
